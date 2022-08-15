@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79509211-c079-4b18-adc1-05d3608c2d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/Errors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/ErrorModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/ResponseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/UserDataModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/EndToEndTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/Specifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/crud/TestDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/crud/TestUserDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/crud/TestUserGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/crud/TestUserPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/crud/TestUserPut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngXml/RegressionTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngXml/SmokeTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngXml/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="79509211-c079-4b18-adc1-05d3608c2d8c" name="Changes" comment="week3 task implementation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +133,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660295972779</updated>
     </task>
+    <task id="LOCAL-00001" summary="week3 task implementation">
+      <created>1660582154380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660582154380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,5 +153,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week3 task implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="week3 task implementation" />
   </component>
 </project>
